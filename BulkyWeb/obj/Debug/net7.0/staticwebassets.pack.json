@@ -1,0 +1,377 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\nitis\\OneDrive\\Desktop\\Project\\Bulky\\BulkyWeb\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\BulkyWeb.bundle.scp.css",
+      "PackagePath": "staticwebassets\\BulkyWeb.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\nitis\\OneDrive\\Desktop\\Project\\Bulky\\BulkyWeb\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\nitis\\OneDrive\\Desktop\\Project\\Bulky\\BulkyWeb\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\nitis\\OneDrive\\Desktop\\Project\\Bulky\\BulkyWeb\\wwwroot\\images\\book.png",
+      "PackagePath": "staticwebassets\\images\\book.png"
+    },
+    {
+      "Id": "C:\\Users\\nitis\\OneDrive\\Desktop\\Project\\Bulky\\BulkyWeb\\wwwroot\\images\\lawn_leaf.jpg",
+      "PackagePath": "staticwebassets\\images\\lawn_leaf.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nitis\\OneDrive\\Desktop\\Project\\Bulky\\BulkyWeb\\wwwroot\\images\\product\\0364545f-395a-4a0b-9224-ec0294fa0809.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\0364545f-395a-4a0b-9224-ec0294fa0809.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nitis\\OneDrive\\Desktop\\Project\\Bulky\\BulkyWeb\\wwwroot\\images\\product\\1c1f97c8-d210-40f3-942f-c671fe3a4536.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\1c1f97c8-d210-40f3-942f-c671fe3a4536.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nitis\\OneDrive\\Desktop\\Project\\Bulky\\BulkyWeb\\wwwroot\\images\\product\\54a9419e-11ac-41e2-b3e7-5b3db36baa2c.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\54a9419e-11ac-41e2-b3e7-5b3db36baa2c.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nitis\\OneDrive\\Desktop\\Project\\Bulky\\BulkyWeb\\wwwroot\\images\\product\\655ad688-5be6-40db-ac52-86dab0123622.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\655ad688-5be6-40db-ac52-86dab0123622.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nitis\\OneDrive\\Desktop\\Project\\Bulky\\BulkyWeb\\wwwroot\\images\\product\\82a64906-e05d-47ce-99c8-2f9241eed318.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\82a64906-e05d-47ce-99c8-2f9241eed318.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nitis\\OneDrive\\Desktop\\Project\\Bulky\\BulkyWeb\\wwwroot\\images\\product\\c2dfb7f0-a919-4852-8251-e1a32476f72c.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\c2dfb7f0-a919-4852-8251-e1a32476f72c.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nitis\\OneDrive\\Desktop\\Project\\Bulky\\BulkyWeb\\wwwroot\\images\\product\\c860832d-345d-4816-9101-3fb2eef39c24.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\c860832d-345d-4816-9101-3fb2eef39c24.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nitis\\OneDrive\\Desktop\\Project\\Bulky\\BulkyWeb\\wwwroot\\images\\product\\dc33850a-0325-4fdf-b33e-2846ae0f5844.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\dc33850a-0325-4fdf-b33e-2846ae0f5844.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nitis\\OneDrive\\Desktop\\Project\\Bulky\\BulkyWeb\\wwwroot\\images\\product\\product-1\\77234c46-9fe5-4267-9651-501d4513a3dc.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\product-1\\77234c46-9fe5-4267-9651-501d4513a3dc.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nitis\\OneDrive\\Desktop\\Project\\Bulky\\BulkyWeb\\wwwroot\\images\\product\\product-1\\ab8ec2a6-d952-43b2-be78-39bdf0378f62.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\product-1\\ab8ec2a6-d952-43b2-be78-39bdf0378f62.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nitis\\OneDrive\\Desktop\\Project\\Bulky\\BulkyWeb\\wwwroot\\images\\product\\product-2\\59d0a5d4-a14e-47b4-9d94-57660cd1573d.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\product-2\\59d0a5d4-a14e-47b4-9d94-57660cd1573d.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nitis\\OneDrive\\Desktop\\Project\\Bulky\\BulkyWeb\\wwwroot\\images\\product\\product-2\\748a2640-cbf8-4955-aa0c-bb459078f499.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\product-2\\748a2640-cbf8-4955-aa0c-bb459078f499.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nitis\\OneDrive\\Desktop\\Project\\Bulky\\BulkyWeb\\wwwroot\\images\\product\\product-3\\433c6936-dfba-4aff-b08b-b017ebf13273.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\product-3\\433c6936-dfba-4aff-b08b-b017ebf13273.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nitis\\OneDrive\\Desktop\\Project\\Bulky\\BulkyWeb\\wwwroot\\images\\product\\product-3\\e8b9f152-664e-4f03-97a2-9e72bf201ba6.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\product-3\\e8b9f152-664e-4f03-97a2-9e72bf201ba6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nitis\\OneDrive\\Desktop\\Project\\Bulky\\BulkyWeb\\wwwroot\\images\\product\\product-4\\0082cc63-7647-4eeb-b9d9-3b67129c2083.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\product-4\\0082cc63-7647-4eeb-b9d9-3b67129c2083.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nitis\\OneDrive\\Desktop\\Project\\Bulky\\BulkyWeb\\wwwroot\\images\\product\\product-4\\01c63deb-8f08-4d53-b6d7-dfd4dfd3bee8.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\product-4\\01c63deb-8f08-4d53-b6d7-dfd4dfd3bee8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nitis\\OneDrive\\Desktop\\Project\\Bulky\\BulkyWeb\\wwwroot\\images\\product\\product-4\\e7f73e6e-f33d-4bce-ae33-4e44cb032cfc.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\product-4\\e7f73e6e-f33d-4bce-ae33-4e44cb032cfc.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nitis\\OneDrive\\Desktop\\Project\\Bulky\\BulkyWeb\\wwwroot\\images\\product\\product-4\\ef8b6d38-cd3a-4e27-9781-426d8eb5bc6c.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\product-4\\ef8b6d38-cd3a-4e27-9781-426d8eb5bc6c.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nitis\\OneDrive\\Desktop\\Project\\Bulky\\BulkyWeb\\wwwroot\\images\\product\\product-5\\96157101-6449-478b-a798-151c04507d1d.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\product-5\\96157101-6449-478b-a798-151c04507d1d.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nitis\\OneDrive\\Desktop\\Project\\Bulky\\BulkyWeb\\wwwroot\\images\\product\\product-5\\96863b38-0fa6-49ed-9295-e740a62a105f.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\product-5\\96863b38-0fa6-49ed-9295-e740a62a105f.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nitis\\OneDrive\\Desktop\\Project\\Bulky\\BulkyWeb\\wwwroot\\images\\product\\product-6\\9751a181-0856-4280-b2c9-729ceffb6244.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\product-6\\9751a181-0856-4280-b2c9-729ceffb6244.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nitis\\OneDrive\\Desktop\\Project\\Bulky\\BulkyWeb\\wwwroot\\images\\product\\product-6\\f34033a4-0eef-4db3-8bef-86f9e9c6add6.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\product-6\\f34033a4-0eef-4db3-8bef-86f9e9c6add6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nitis\\OneDrive\\Desktop\\Project\\Bulky\\BulkyWeb\\wwwroot\\js\\company.js",
+      "PackagePath": "staticwebassets\\js\\company.js"
+    },
+    {
+      "Id": "C:\\Users\\nitis\\OneDrive\\Desktop\\Project\\Bulky\\BulkyWeb\\wwwroot\\js\\order.js",
+      "PackagePath": "staticwebassets\\js\\order.js"
+    },
+    {
+      "Id": "C:\\Users\\nitis\\OneDrive\\Desktop\\Project\\Bulky\\BulkyWeb\\wwwroot\\js\\product.js",
+      "PackagePath": "staticwebassets\\js\\product.js"
+    },
+    {
+      "Id": "C:\\Users\\nitis\\OneDrive\\Desktop\\Project\\Bulky\\BulkyWeb\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\nitis\\OneDrive\\Desktop\\Project\\Bulky\\BulkyWeb\\wwwroot\\js\\user.js",
+      "PackagePath": "staticwebassets\\js\\user.js"
+    },
+    {
+      "Id": "C:\\Users\\nitis\\OneDrive\\Desktop\\Project\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\nitis\\OneDrive\\Desktop\\Project\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\nitis\\OneDrive\\Desktop\\Project\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\nitis\\OneDrive\\Desktop\\Project\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\nitis\\OneDrive\\Desktop\\Project\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\nitis\\OneDrive\\Desktop\\Project\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\nitis\\OneDrive\\Desktop\\Project\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\nitis\\OneDrive\\Desktop\\Project\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\nitis\\OneDrive\\Desktop\\Project\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\nitis\\OneDrive\\Desktop\\Project\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\nitis\\OneDrive\\Desktop\\Project\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\nitis\\OneDrive\\Desktop\\Project\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\nitis\\OneDrive\\Desktop\\Project\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\nitis\\OneDrive\\Desktop\\Project\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\nitis\\OneDrive\\Desktop\\Project\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\nitis\\OneDrive\\Desktop\\Project\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\nitis\\OneDrive\\Desktop\\Project\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\nitis\\OneDrive\\Desktop\\Project\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\nitis\\OneDrive\\Desktop\\Project\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\nitis\\OneDrive\\Desktop\\Project\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\nitis\\OneDrive\\Desktop\\Project\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\nitis\\OneDrive\\Desktop\\Project\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\nitis\\OneDrive\\Desktop\\Project\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\nitis\\OneDrive\\Desktop\\Project\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\nitis\\OneDrive\\Desktop\\Project\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\nitis\\OneDrive\\Desktop\\Project\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\nitis\\OneDrive\\Desktop\\Project\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\nitis\\OneDrive\\Desktop\\Project\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\nitis\\OneDrive\\Desktop\\Project\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\nitis\\OneDrive\\Desktop\\Project\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\nitis\\OneDrive\\Desktop\\Project\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\nitis\\OneDrive\\Desktop\\Project\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\nitis\\OneDrive\\Desktop\\Project\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\nitis\\OneDrive\\Desktop\\Project\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\nitis\\OneDrive\\Desktop\\Project\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\nitis\\OneDrive\\Desktop\\Project\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\nitis\\OneDrive\\Desktop\\Project\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\nitis\\OneDrive\\Desktop\\Project\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\nitis\\OneDrive\\Desktop\\Project\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\nitis\\OneDrive\\Desktop\\Project\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\nitis\\OneDrive\\Desktop\\Project\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\nitis\\OneDrive\\Desktop\\Project\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\nitis\\OneDrive\\Desktop\\Project\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\nitis\\OneDrive\\Desktop\\Project\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\nitis\\OneDrive\\Desktop\\Project\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\nitis\\OneDrive\\Desktop\\Project\\Bulky\\BulkyWeb\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\nitis\\OneDrive\\Desktop\\Project\\Bulky\\BulkyWeb\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\nitis\\OneDrive\\Desktop\\Project\\Bulky\\BulkyWeb\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\nitis\\OneDrive\\Desktop\\Project\\Bulky\\BulkyWeb\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\nitis\\OneDrive\\Desktop\\Project\\Bulky\\BulkyWeb\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\nitis\\OneDrive\\Desktop\\Project\\Bulky\\BulkyWeb\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\nitis\\OneDrive\\Desktop\\Project\\Bulky\\BulkyWeb\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\nitis\\OneDrive\\Desktop\\Project\\Bulky\\BulkyWeb\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\nitis\\OneDrive\\Desktop\\Project\\Bulky\\BulkyWeb\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\nitis\\OneDrive\\Desktop\\Project\\Bulky\\BulkyWeb\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\nitis\\OneDrive\\Desktop\\Project\\Bulky\\BulkyWeb\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\nitis\\OneDrive\\Desktop\\Project\\Bulky\\BulkyWeb\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.BulkyWeb.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.BulkyWeb.props",
+      "PackagePath": "build\\BulkyWeb.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.BulkyWeb.props",
+      "PackagePath": "buildMultiTargeting\\BulkyWeb.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.BulkyWeb.props",
+      "PackagePath": "buildTransitive\\BulkyWeb.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
